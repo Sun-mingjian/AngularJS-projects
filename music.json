@@ -1,0 +1,5043 @@
+{
+
+   "albumList": [
+
+      {
+
+         "artist": "Art Pepper",
+
+         "title": "Art Pepper Meets The Rhythm Section",
+
+         "ID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+         "genre": "Jazz",
+
+         "publisher": "Contemporary/OJC",
+
+         "year": "1957",
+
+         "songList": [
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Youd Be So Nice To Come Home To",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "5a182d19-d184-4329-9641-4ed3aa8f8a52"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Red Pepper Blues",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "81ff4e0e-e56d-48b0-bc16-87bdd2a40556"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Imagination",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "b0b5f010-8358-45ea-837b-59b4b05a2519"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Waltz Me Blues",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "62a0a901-94a3-4739-bb12-e5c81577e860"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Straight Life",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "6b1f60e1-0e3a-44e3-9054-bc20820587d6"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Jazz Me Blues",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "9d1b2589-2db9-4f6c-bc56-5403391979aa"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Tin Tin Deo",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "e35a014a-4d3a-4b19-b0ad-d86e4b3f3f69"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Star Eyes",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "f9a2781f-587f-4b12-b220-1312c4af0516"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "Birks Works",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "a18d1798-1efb-4402-9a27-30566a9ce0af"
+
+            },
+
+            {
+
+               "artist": "Art Pepper",
+
+               "title": "The Man I Love",
+
+               "albumID": "b273cf49-6b14-4a2f-8cb3-1c87be4eaf71",
+
+               "price": "0.99",
+
+               "songID": "62675340-9a6b-40ce-b7fb-de0c0ce7756f"
+
+            }
+
+         ],
+
+         "price": "6.0"
+
+      },
+
+      {
+
+         "artist": "RZA",
+
+         "title": "Batman Forever",
+
+         "ID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+         "genre": "Soundtrack",
+
+         "publisher": "Atlantic",
+
+         "year": "1995",
+
+         "songList": [
+
+            {
+
+               "artist": "U2",
+
+               "title": "Hold Me Thrill Me Kiss Me Kill Me",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "2cafb37a-e696-4351-b624-d9ad1d7867a5"
+
+            },
+
+            {
+
+               "artist": "PJ Harvey",
+
+               "title": "One Time Too Many",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "92a08ead-6d76-4ebf-a63e-c615d46f8f4d"
+
+            },
+
+            {
+
+               "artist": "Brandy",
+
+               "title": "Where Are You Now",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "726fc755-42e5-429b-a658-44d7669ee504"
+
+            },
+
+            {
+
+               "artist": "Seal",
+
+               "title": "Kiss from a Rose",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "02d44627-35f5-4b9d-ad11-4ecbd6cce8cc"
+
+            },
+
+            {
+
+               "artist": "Massive Attack / Tracey Thorn",
+
+               "title": "The Hunter Gets Captured by the Game",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "65068892-742a-4c4a-a9f6-c994672ac2cb"
+
+            },
+
+            {
+
+               "artist": "Eddi Reader",
+
+               "title": "Nobody Lives Without Love",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "410ec6ec-76ab-4fe7-a28c-777035702c5f"
+
+            },
+
+            {
+
+               "artist": "Mazzy Star",
+
+               "title": "Tell Me Now",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "f432e2b7-8900-4b53-b0e1-cf27ad470404"
+
+            },
+
+            {
+
+               "artist": "The Offspring",
+
+               "title": "Smash It Up",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "4078677a-b955-4e75-8601-e7b5ce9a168e"
+
+            },
+
+            {
+
+               "artist": "Nick Cave",
+
+               "title": "There Is a Light",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "0c69778c-11ab-43de-86b3-fb81ef9750bd"
+
+            },
+
+            {
+
+               "artist": "Method Man",
+
+               "title": "The Riddler",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "09ed7be4-22eb-4613-bc9d-3e539130af46"
+
+            },
+
+            {
+
+               "artist": "Michael Hutchence",
+
+               "title": "The Passenger",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "10bf50b4-085d-456e-a06c-ef70eb55eecc"
+
+            },
+
+            {
+
+               "artist": "The Devlins",
+
+               "title": "Crossing the River",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "4151b596-4be7-4677-9590-e8d329d789f4"
+
+            },
+
+            {
+
+               "artist": "Sunny Day Real Estate",
+
+               "title": "8",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "9bad7792-83d5-430f-9072-225b167fc3cb"
+
+            },
+
+            {
+
+               "artist": "The Flaming Lips",
+
+               "title": "Bad Days",
+
+               "albumID": "17bfb614-f226-4371-be53-007ef2ef3d8b",
+
+               "price": "1.99",
+
+               "songID": "b6d264bc-97b2-40d8-ba5b-f69c43ffd120"
+
+            }
+
+         ],
+
+         "price": "5.0"
+
+      },
+
+      {
+
+         "artist": "Frank Farian",
+
+         "title": "Best Of Boney M.",
+
+         "ID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+         "genre": "Disco",
+
+         "publisher": "BMG",
+
+         "year": "1997",
+
+         "songList": [
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Rivers Of Babylon",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "2109c61d-2fc4-4462-a115-fbcf93aa9cb6"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Ma Baker",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "f4eb8bd2-cd11-4ff9-ba0a-e93ca8f756a0"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Rasputin",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "d0895518-3bff-42ad-a7f3-c2eb755d984d"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "He Was A Steppenwolf",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "8f170f73-f025-4b37-8a06-5c5a1b6ab1b9"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Daddy Cool",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "be8dfa4c-a6d5-4b2d-858c-7d4871cb758b"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Motherless Child",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "79d3af66-36e9-46eb-8070-d7cbab6b66c3"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Brown Girl In The Ring",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "697cea00-ddd4-46f5-8c73-a851619cfae9"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Sunny",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "09cabbae-0445-49f0-b420-8e5e70de41de"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "No Woman No Cry",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "4e33dda4-6691-4a55-9111-c72215df6482"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Mary's Boy Child",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "645a7210-9502-484d-8cbe-03e0041d598a"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Hooray! Hooray! It's A Holi-Holiday",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "7f62ffd3-6a0b-470d-bfa5-3c1e53027ed5"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Never Change Lovers In The Middle Of The Night",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "2ded61eb-5c2b-4145-8c0d-2e5806a7b623"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Voodoonight",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "38b8e286-8325-49c6-92b6-60477e6a3c2f"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Still I'm Sad",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "9b7207f8-11a0-4556-a439-dd685b10a87d"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Nightflight To Venus",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "3a94fe0a-9aac-413e-9eb3-7df838f22038"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Heart Of Gold",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "4eaca8fd-8c92-468d-bc47-de36ecb1ab72"
+
+            },
+
+            {
+
+               "artist": "Boney M.",
+
+               "title": "Gotta Go Home",
+
+               "albumID": "da2bb0bf-3ad9-4814-a2a1-f91c1464196b",
+
+               "price": "0.49",
+
+               "songID": "db84ef38-8dc0-45a8-87de-0509dccdd86f"
+
+            }
+
+         ],
+
+         "price": "4.0"
+
+      },
+
+      {
+
+         "artist": "Sade",
+
+         "title": "The Best Of Sade",
+
+         "ID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+         "genre": "Jazz",
+
+         "publisher": "Epic",
+
+         "year": "1994",
+
+         "songList": [
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Your Love Is King",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "37d31e7f-5639-481f-8f46-24611c22a3b3"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Hang On To Your Love",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "89abc73d-d998-4aee-a4c3-7e975d7eafdc"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Smooth Operator",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "d3f87b35-5e78-46a0-b741-0c287240e037"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Jezebel",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "f260c310-c52a-4bc9-8ad7-665c922829cd"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "The Sweetest Taboo",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "381d3af3-c113-46c1-b9d0-2c46cf445e22"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Is It a Crime",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "76daeb9e-4ba5-41dc-a422-97a4a85337cc"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Never As Good as the First Time",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "c92e7680-147f-4eab-af7b-a8ebac762f07"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Love is Stronger than Pride",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "93e0fcfa-b945-40a2-be58-11515888f378"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Paradise",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "696b485f-1411-4fc9-afa6-961042ab06fc"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Nothing Can Come Between Us",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "3913ac54-0c03-4025-8279-5cfad2fcab5f"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "No Ordinary Love",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "7816ddf7-8478-4696-914b-521971051121"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Like a Tattoo",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "c86c3993-1b7c-4567-98d4-3dc345909a17"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Kiss of Life",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "7b8535af-12f8-429b-894a-349bb1593cca"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Please Send Me Someone to Love",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "f49f7896-215c-4d13-a915-90111c12b2d6"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Cherish the Day",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "9fd4faad-ce28-4fa5-bebd-0fdd01accfb1"
+
+            },
+
+            {
+
+               "artist": "Sade",
+
+               "title": "Pearls",
+
+               "albumID": "f67d1490-ca97-4977-8f79-d7f78ceda8b7",
+
+               "price": "1.29",
+
+               "songID": "51d1c62f-5beb-4ed7-a5d3-35efa7d9045c"
+
+            }
+
+         ],
+
+         "price": "8.0"
+
+      },
+
+      {
+
+         "artist": "Shaggy",
+
+         "title": "The Best Of Shaggy",
+
+         "ID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+         "genre": "Reggae",
+
+         "publisher": "EMI",
+
+         "year": "2008",
+
+         "songList": [
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Boombastic",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "4bb5ee25-858d-4649-9b6f-2c332df0f4a6"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "In The Summertime",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "b8d5b0a7-2e30-4924-92bf-4c09cf0b8d66"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Oh Carolina",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "81842426-2bdb-4941-beb7-810b3451cd12"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "That Girl (Feat. Maxi Priest)",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "f362e3a8-dfb5-4abb-bd33-dc81f0850d7e"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Peice Of My Heart",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "aebc25b1-6dde-4924-a235-57b0bc60d5e1"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Sexy Body Girls",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "0d8023fc-a42e-42d4-8a4c-d5c116b7224c"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Why You Treat Me So Bad (Clean Version)",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "29880fc2-f1c8-4265-b200-1f2ffc338929"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Big Up",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "4a96046a-e1e9-458b-9aee-cb8e725f5979"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Soon Be Done",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "4272ca8b-3f1c-44aa-aafb-e137617d217a"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Woman A Pressure Me",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "9dcc3b0c-189b-48a5-ac11-1f5b65012cfa"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "The Train Is Coming",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "354c70bc-859c-4e3a-a017-93fe2bb9f35e"
+
+            },
+
+            {
+
+               "artist": "Shaggy",
+
+               "title": "Geenie",
+
+               "albumID": "632778bf-a46b-45a8-bc23-436c70460550",
+
+               "price": "0.99",
+
+               "songID": "b22377fd-7d4e-4201-b10d-2881c58eba93"
+
+            }
+
+         ],
+
+         "price": "11.0"
+
+      },
+
+      {
+
+         "artist": "Miles Davis",
+
+         "title": "Birth Of The Cool",
+
+         "ID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+         "genre": "Jazz",
+
+         "publisher": "Capitol",
+
+         "year": "1957",
+
+         "songList": [
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Move",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "9bea1bb4-2250-4259-8a31-3148a8b92eba"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Jeru",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "59a4c094-fcf0-46b8-b1f3-2edba28378f1"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Moon Dreams",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "fbd022bd-52ec-4d38-b2df-139260750e75"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Venus De Milo",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "cb3c48c3-2dd1-4421-b392-d8c2b06b0908"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Budo",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "b9070b85-e8e5-4f15-8b0f-6d153d049929"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Deception",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "e2abf491-d285-4f7b-a279-88608b830eea"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Godchild",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "fea9f61e-1498-47c8-80d1-465ab9c9f993"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Boplicity",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "c30cc0f2-c53f-4d01-b2ef-1ef0bd934380"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Rocker",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "810174a6-aaf9-4271-96b1-d2bcd4e86049"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Israel",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "9585a61f-344e-4c74-9265-1fe44f4413b4"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Rouge",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "07499bff-21c1-4f8a-a1ad-0bd91e4d5975"
+
+            },
+
+            {
+
+               "artist": "Miles Davis",
+
+               "title": "Darn That Dream",
+
+               "albumID": "12bf5878-5885-4c9f-9bae-f11145ecd3d6",
+
+               "price": "1.99",
+
+               "songID": "a9fdbcb1-8017-464e-9470-7fb75a84c67b"
+
+            }
+
+         ],
+
+         "price": "10.0"
+
+      },
+
+      {
+
+         "artist": "Massive Attack",
+
+         "title": "Blue Lines",
+
+         "ID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+         "genre": "Electronica",
+
+         "publisher": "Virgin Records",
+
+         "year": "1991",
+
+         "songList": [
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Safe from Harm",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "b824d75d-684b-4d94-bd94-850d9ed084ba"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "One Love",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "1b94340f-8904-4bc4-916e-81043134c2a3"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Blue Lines",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "a2aeb1fc-4418-434b-9c8c-d82dac746f9d"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Be Thankful for What You Got",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "dd16edd0-7447-4e72-9a12-4ce8c6ba7f77"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Five Man Army",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "56b4808f-c785-4c75-84da-b3040e682fb1"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Unfinished Sympathy",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "e59977d5-50db-4209-a76d-9a44cba9db8f"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Daydreaming",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "9cab7157-3196-47fb-834e-3ff4e4454e8c"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Lately",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "b362a758-d081-424c-bcbe-63efc1075b80"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Hymn of the Big Wheel",
+
+               "albumID": "c8dce7e5-f5e2-4fc8-86fb-a20c55c8a5f3",
+
+               "price": "0.69",
+
+               "songID": "6f7c91a1-053a-42f4-bdd5-4e700c696ade"
+
+            }
+
+         ],
+
+         "price": "4.0"
+
+      },
+
+      {
+
+         "artist": "Creed Taylor",
+
+         "title": "The Blues And The Abstract Truth",
+
+         "ID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+         "genre": "Jazz",
+
+         "publisher": "Impulse",
+
+         "year": "1961",
+
+         "songList": [
+
+            {
+
+               "artist": "Oliver Nelson",
+
+               "title": "Stolen Moments",
+
+               "albumID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+               "price": "1.49",
+
+               "songID": "118673d0-2845-4689-8300-b89d672974b7"
+
+            },
+
+            {
+
+               "artist": "Oliver Nelson",
+
+               "title": "Hoe Down",
+
+               "albumID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+               "price": "1.49",
+
+               "songID": "b3deed1d-1b4c-49a1-96e0-943913e4362e"
+
+            },
+
+            {
+
+               "artist": "Oliver Nelson",
+
+               "title": "Cascades",
+
+               "albumID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+               "price": "1.49",
+
+               "songID": "622492ec-6971-49e3-87a2-35b75ed035a9"
+
+            },
+
+            {
+
+               "artist": "Oliver Nelson",
+
+               "title": "Yearnin",
+
+               "albumID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+               "price": "1.49",
+
+               "songID": "8fab2734-a433-4288-9c6d-ba761aaf36be"
+
+            },
+
+            {
+
+               "artist": "Oliver Nelson",
+
+               "title": "Butch And Butch",
+
+               "albumID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+               "price": "1.49",
+
+               "songID": "7039fb46-5904-4fd9-b8af-d5a9222fb578"
+
+            },
+
+            {
+
+               "artist": "Oliver Nelson",
+
+               "title": "Teenies Blues",
+
+               "albumID": "36aa85ee-75b6-4932-9942-6e7902afc5cf",
+
+               "price": "1.49",
+
+               "songID": "3d3a938e-35fe-41f7-b69b-0bb3413e30d4"
+
+            }
+
+         ],
+
+         "price": "7.0"
+
+      },
+
+      {
+
+         "artist": "The Chemical Brothers",
+
+         "title": "Brotherhood",
+
+         "ID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+         "genre": "Electronica",
+
+         "publisher": "Virgin Records",
+
+         "year": "2008",
+
+         "songList": [
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Hey Boy Hey Girl (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "ad068b48-257a-43be-9f6d-66fc6cefd3bf"
+
+            },
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Block Rockin' Beats (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "0c29107d-9e71-40c8-8b2a-205c78a67f73"
+
+            },
+
+            {
+
+               "artist": "Ali Love/The Chemical Brothers",
+
+               "title": "Do It Again (Edit)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "c817aab7-7476-46c8-bd34-df0e404469a7"
+
+            },
+
+            {
+
+               "artist": "Kele Okereke/The Chemical Brothers",
+
+               "title": "Believe",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "12c90aaa-3a46-49ce-9a2b-c973c169c7c7"
+
+            },
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Star Guitar (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "ba97834b-6e73-4a6f-bac7-ffdb6a288d71"
+
+            },
+
+            {
+
+               "artist": "Noel Gallagher/The Chemical Brothers",
+
+               "title": "Let Forever Be (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "ce24d13e-bc19-40de-8fbe-70231d41c4ec"
+
+            },
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Leave Home (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "a58a18cd-5658-4ed2-97d8-43fcb691bdd9"
+
+            },
+
+            {
+
+               "artist": "Spank Rock/The Chemical Brothers",
+
+               "title": "Keep My Composure",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "23607b4d-62d1-4be0-af68-8ca3bc3b80ea"
+
+            },
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Saturate",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "c57e1d05-4366-4306-a64a-f5e11b691d96"
+
+            },
+
+            {
+
+               "artist": "Bernard Sumner/The Chemical Brothers",
+
+               "title": "Out Of Control (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "41874f4e-5994-469d-a87e-2dda0efb4e21"
+
+            },
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Midnight Madness",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "c7a2a83b-23f3-4a5e-9554-3696ee4b6173"
+
+            },
+
+            {
+
+               "artist": "Steven Drozd/The Chemical Brothers/The Flaming Lips/Wayne Coyne",
+
+               "title": "The Golden Path",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "1281ea4b-8e8b-4f65-a563-6d2f5bb369f4"
+
+            },
+
+            {
+
+               "artist": "Noel Gallagher/The Chemical Brothers",
+
+               "title": "Setting Sun (2003 Digital Remaster) (Feat. Noel Gallagher)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "3331755c-87a0-4aba-8555-ea6e6efc8909"
+
+            },
+
+            {
+
+               "artist": "The Chemical Brothers",
+
+               "title": "Chemical Beats (2003 Digital Remaster)",
+
+               "albumID": "8991431d-a173-4728-9989-49a00129dfb9",
+
+               "price": "1.99",
+
+               "songID": "5f2fbd3f-5187-46a5-a105-9793e97479f5"
+
+            }
+
+         ],
+
+         "price": "8.0"
+
+      },
+
+      {
+
+         "artist": "Robin Alciatore",
+
+         "title": "Classical Collection",
+
+         "ID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+         "genre": "Classical",
+
+         "publisher": "EMI",
+
+         "year": "2001",
+
+         "songList": [
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Clair De Lune",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "e451e15b-8f83-4126-b258-37e301fbca2e"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Danny Boy",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "54b1d721-ffd0-4258-8496-1894dbf12411"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Greensleeves",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "9924de86-66c6-4f92-84a9-97932494fa18"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Gymnopedie No. 1",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "559a3f7f-f940-4ae1-88ef-6cf2f8812e4e"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Humoresque",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "faf29bd8-fa29-4358-b9fd-8b2070e98dcf"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Hungarian Rhapsody",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "e3de9812-54e1-42b0-9190-df6adeb2d43e"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Intermezzo in A Major",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "c03e28b9-0e90-433d-8771-8ac0bab14218"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Liebestraume",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "af834251-dcbf-439a-a608-512fd1a1691f"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Moonlight Sonata",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "13d37011-07ba-4dbd-8641-c476f0e55312"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Morning Mood",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "8cb6d146-64d3-4c9b-b01c-a6120ddc93c5"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Over the Rainbow",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "d8bc3027-aced-4d54-97a3-c42787c135ea"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "The Poet Speaks",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "67f691f9-0238-443d-b95c-a144df578265"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Rage over a Lost Penny",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "729cece8-854b-44c4-a8fa-9ae69dc24d74"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "September's Gone",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "70e5cc97-7887-4d94-a513-4f939994d703"
+
+            },
+
+            {
+
+               "artist": "Robin Alciatore",
+
+               "title": "Solace",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "15ab4842-1b68-44e5-9432-8a9c7a0560a0"
+
+            },
+
+            {
+
+               "artist": "Rococo Quartet",
+
+               "title": "Symphony No. 25",
+
+               "albumID": "a9ba183b-2556-48c1-bc89-a4de660dde0f",
+
+               "price": "1.29",
+
+               "songID": "e162c49f-b7e2-47b2-903e-87b47fa3e30f"
+
+            }
+
+         ],
+
+         "price": "5.0"
+
+      },
+
+      {
+
+         "artist": "Pink Floyd",
+
+         "title": "Dark Side Of The Moon",
+
+         "ID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+         "genre": "Progressive Rock",
+
+         "publisher": "EMI",
+
+         "year": "1973",
+
+         "songList": [
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Speak To Me/Breathe",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "d031c79b-6c4e-4cc0-8bfe-9a71c6626007"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "On The Run",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "7f60f0aa-3a79-4008-8bfd-75124b9cb0f6"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Time",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "39080c69-d962-446d-aebe-153f2b016b44"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "The Great Gig In The Sky",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "af792674-a176-48e1-b71c-c119bebab0ce"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Money",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "21f6263d-e042-47b5-b3de-dd5447ef160b"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Us And Them",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "a562a433-8475-43dd-92f4-efc1ea734574"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Any Colour You Like",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "28d85f6a-2cc1-498b-a2c0-34bebd14a24a"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Brain Damage",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "37d84b60-32a9-4ee2-864b-b5eb61a7e7a6"
+
+            },
+
+            {
+
+               "artist": "Pink Floyd",
+
+               "title": "Eclipse",
+
+               "albumID": "53215273-5103-4694-8312-b9ede1ee4d1d",
+
+               "price": "0.99",
+
+               "songID": "25f59602-42ff-4681-9cd9-2da328176c29"
+
+            }
+
+         ],
+
+         "price": "8.0"
+
+      },
+
+      {
+
+         "artist": "Eurythmics",
+
+         "title": "Eurythmics: Ultimate Collection",
+
+         "ID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+         "genre": "Pop",
+
+         "publisher": "RCA Records",
+
+         "year": "2005",
+
+         "songList": [
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "I've Got a Life",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "cf208fa3-75f9-49ac-88ef-9f0b585c20b3"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Love Is a Stranger",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "eeb6e316-55d5-479f-96ea-67a4b9c9db4b"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Sweet Dreams (Are Made of This)",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "50ed6861-f6e2-479b-865c-cbbbc5c27efd"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Who's That Girl",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "5d373846-8d47-4153-84c9-3b762649b57c"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Right By Your Side",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "9da72eb3-88e8-461a-a40b-12df2014f8f4"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Here Comes the Rain Again",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "9e074f0f-4762-40cf-81c7-006c110f603b"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Would I Lie to You?",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "8cf396b7-5906-4e3c-a857-bc546b499f52"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "There Must Be an Angel (Playing With My Heart)",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "b4375a94-40ae-49dd-8364-d84eff017bfb"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Sisters Are Doin' It for Themselves",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "9bc69cb1-ea27-4f6f-9f87-423e07aa2331"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "It's Alright (Baby's Coming Back)",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "b7485971-e31f-481a-be8c-8583f5677491"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "When Tomorrow Comes",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "cece4fda-b806-4ad6-9a9a-d6a781a2a116"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Thorn In My Side",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "db145c2e-527d-40bd-8ba2-9d3d33033fb5"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Miracle of Love",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "5acfe0e7-2a68-447c-a757-d90b3cad16a6"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Missionary Man",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "858f607d-d90d-40b9-93fa-8b6118db06c8"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "You Have Placed a Chill In My Heart",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "f176bfb5-71b8-465e-9b56-ebcb002dc706"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "I Need a Man",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "ac363506-9557-4c9c-9552-58fc05695ac2"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "I Saved the World Today",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "479ac67d-47bd-4684-95cf-d75d4b571d91"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "17 Again",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "6e715d40-fa4b-4299-b16d-5cb81617b8f4"
+
+            },
+
+            {
+
+               "artist": "Eurythmics",
+
+               "title": "Was It Just Another Love Affair",
+
+               "albumID": "ccfc70ee-18e4-4734-aa8f-868903e76095",
+
+               "price": "0.69",
+
+               "songID": "740a6a73-c6f4-4fe1-9cce-fb2d4a48def8"
+
+            }
+
+         ],
+
+         "price": "7.0"
+
+      },
+
+      {
+
+         "artist": "John Coltrane",
+
+         "title": "Giant Steps",
+
+         "ID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+         "genre": "Jazz",
+
+         "publisher": "Atlantic",
+
+         "year": "1960",
+
+         "songList": [
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Countdown",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "a56115db-7fa1-4eff-8e75-0e4cb5c656ef"
+
+            },
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Cousin Mary",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "e796f12c-693e-4605-ab14-38a09d680e1a"
+
+            },
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Giant Steps",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "a286e9e7-0196-4e54-9b70-03666095c7ca"
+
+            },
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Mr P C",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "d1c4b12c-d793-4da5-a6de-9a2fab494c00"
+
+            },
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Naima",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "3c15d1eb-11d7-4b77-974d-2a89428816ad"
+
+            },
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Spiral",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "5593f5a0-1050-4557-a38a-7d398e5c76e7"
+
+            },
+
+            {
+
+               "artist": "John Coltrane",
+
+               "title": "Syeeda'S Song Flute",
+
+               "albumID": "dd857f3b-5065-4b29-8375-da25fc9e190a",
+
+               "price": "1.29",
+
+               "songID": "2f671c41-1083-446c-afb7-b9e31e4663f4"
+
+            }
+
+         ],
+
+         "price": "6.0"
+
+      },
+
+      {
+
+         "artist": "Groove Armada",
+
+         "title": "Goodbye Country (Hello Nightclub)",
+
+         "ID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+         "genre": "Electronica",
+
+         "publisher": "Jive Records",
+
+         "year": "2001",
+
+         "songList": [
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Suntoucher",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "f8b9e883-dff6-4ca4-980c-e66a532f28ab"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Superstylin'",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "dcaac78a-2b23-4982-be64-ed250f26b44e"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Drifted",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "88f00023-c60c-4d93-8e7a-0bb91609e073"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Little By Little",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "4e0329a5-2610-4795-8ad0-f4f924d90a00"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Fogma",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "539a1962-d295-4905-8bf3-34efc28a3e7f"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "My Friend",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "e9fe2b7b-3e24-48fe-bc8f-ce7c6439909c"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Lazy Moon",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "cb9b0ee6-3d9d-4d4a-83a4-18d3a8fd67f0"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Raisin' The Stakes",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "355a2e12-20dd-486b-ad43-da05e90ec3be"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Healing",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "f20b3e82-9b57-41ac-94a3-178eada29240"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Edge Hill",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "5aab6c91-228f-453d-a7f4-728ac83f8b44"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Tuning In (Dub Mix)",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "0339e7e8-fec5-4847-a005-5013f4a688ab"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Join Hands",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "6f0392bb-5ee9-4710-a5d2-8b078be6dc64"
+
+            },
+
+            {
+
+               "artist": "Groove Armada",
+
+               "title": "Likwid",
+
+               "albumID": "f9706ea6-da6a-4a72-802c-63b15165d688",
+
+               "price": "0.99",
+
+               "songID": "6f33371a-c5ca-41d4-bc3d-1eb82432494f"
+
+            }
+
+         ],
+
+         "price": "5.0"
+
+      },
+
+      {
+
+         "artist": "Daft Punk",
+
+         "title": "Homework",
+
+         "ID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+         "genre": "Dance",
+
+         "publisher": "EMI/Virgin Records",
+
+         "year": "1997",
+
+         "songList": [
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Daftendirekt",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "ff0baa07-9a5a-4666-9a8b-23b1dc68afc8"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "WDPK 83.7 FM",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "625b29e8-e793-4d0d-9b5f-90c90c14aa35"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Revolution 909",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "d9adca4b-7c69-4f92-922b-9a26f20eca8e"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Da Funk",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "6f7a7d06-e00e-4a5b-8033-0c80427a3522"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Phoenix",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "1eaa5903-53e5-4d59-b03f-d3476133221f"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Fresh",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "29e56a11-8333-4f2f-bf71-fab939f2a452"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Around The World",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "96fd4e34-c865-4205-b986-1f9b8cb6ce89"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Rollin' & Scratchin'",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "fae2fee9-0c58-471b-bf14-283f9bfa36b9"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Teachers",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "447b63d1-8037-4ec5-ba17-e63fa9c99b3c"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "High Fidelity",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "18e40a76-ab4f-4554-ad85-06a3d04702ca"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Rock 'n Roll",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "e653184f-4d87-4f9b-965f-0c06daf10df3"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Oh Yeah",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "8e78c387-da88-421c-93b2-06e44554fc49"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Burnin'",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "3f16d239-ecf0-4ceb-9540-ce612ed66e48"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Indo Silver Club",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "377dd0ba-e1bc-4562-9802-982f981cf11b"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Alive",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "2dcdadec-624e-4392-8f0d-3f7112a6687c"
+
+            },
+
+            {
+
+               "artist": "Daft Punk",
+
+               "title": "Funk Ad",
+
+               "albumID": "43dabaa3-745a-4a61-9213-b18efd547919",
+
+               "price": "1.99",
+
+               "songID": "d66bc616-c03f-4912-afca-1f2a8610e11c"
+
+            }
+
+         ],
+
+         "price": "9.0"
+
+      },
+
+      {
+
+         "artist": "R. E. M.",
+
+         "title": "In Time: The Best of R.E.M. 1988-2003",
+
+         "ID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+         "genre": "Alternative",
+
+         "publisher": "Warner Bros.",
+
+         "year": "2003",
+
+         "songList": [
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Man on the Moon",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "290b4d1f-e6a7-4f17-9eff-d0efc76265e6"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "The Great Beyond",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "f06b0201-6452-47ba-852d-c1a33a0ce81e"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Bad Day",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "834507b6-441a-4f48-bf91-5c9defafa23e"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "What's the Frequency Kenneth?",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "75fd6790-de8f-4a30-9b6c-fa217b92f180"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "All the Way to Reno (You're Gonna Be a Star)",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "9964cd1c-e4ec-4bbe-868f-8df495808bad"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Losing My Religion",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "982e2ad8-5657-4c2e-974e-a4bfc7113550"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "E-Bow the Letter",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "131b9ee3-d33d-4609-bb89-cd461a1fd194"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Orange Crush",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "b9b14b33-8d1c-487c-9bd4-8bdb4064ae13"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Imitation of Life",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "d6b403a9-9f3f-4ccc-824c-3f8c8d5538fe"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Daysleeper",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "41639034-e9df-4672-b80d-9681991ab010"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Animal",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "9c78713b-9561-4ecc-8fd0-d20f7e594fe4"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "The Sidewinder Sleeps Tonite",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "838ea4de-c66c-464d-9966-4cf1500c26e3"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Stand",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "047a1bbe-198b-4d06-b1b7-66defb44b28f"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Electrolite",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "aa0a2f7f-4c2e-41d1-9622-e07884cfcc9a"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "All the Right Friends",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "904fa33e-252c-4eea-bbe1-7347db5cb8c9"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Everybody Hurts",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "5728f172-918a-4011-8581-3cf111fb3507"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "At My Most Beautiful",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "945e6bbe-63fc-4a56-b7d6-b4983c0206b4"
+
+            },
+
+            {
+
+               "artist": "R.E.M.",
+
+               "title": "Nightswimming",
+
+               "albumID": "44eef124-4545-40b4-a73f-edf8b4b465d5",
+
+               "price": "0.79",
+
+               "songID": "e8133c9a-0ed0-4956-b9b4-8d3529443a8b"
+
+            }
+
+         ],
+
+         "price": "7.0"
+
+      },
+
+      {
+
+         "artist": "Bob Marley & The Wailers",
+
+         "title": "Legend",
+
+         "ID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+         "genre": "Reggae",
+
+         "publisher": "Nippon Phonogram",
+
+         "year": "1984",
+
+         "songList": [
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Is This Love",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "acf4e8ff-3877-463a-bcf0-cb4c651da5f8"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "No Woman No Cry (Live)",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "a1ef31d3-131c-4a8b-baa5-76e65fa8ef25"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Could You Be Loved",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "3255b9ad-f898-4937-a4a6-1fef44f9e986"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Three Little Birds",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "aaf2f86c-e06a-4d70-9813-80560fda94c2"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Buffalo Soldier",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "4e61dbe2-2812-4e06-9d5d-23d59ec6f27a"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Get Up Stand Up",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "bf97fc3e-2947-4bef-888d-2b79485edb85"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Stir It Up",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "1843ccd4-8dce-4318-866f-4ac7fe4b25bb"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "One Love/People Get Ready",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "7f5676ff-24f7-498f-b27f-a5e7d5d6e207"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "I Shot The Sheriff",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "6d496980-6252-4622-b93c-7c0efa68deef"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Waiting In Vain",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "59d1c8f2-59e4-4f57-ac4b-6e0adeb6bf7d"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Redemption Song",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "d8615a8d-8bfb-4db0-ac29-fe0c48e85057"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Satisfy My Soul",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "f90d1c88-f8fa-4b7e-8316-7c2dc1ccdde5"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Exodus",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "08c5180d-390d-4334-b2b6-21cc5c02d227"
+
+            },
+
+            {
+
+               "artist": "Bob Marley & The Wailers",
+
+               "title": "Jamming",
+
+               "albumID": "c71d58fb-d52c-4a9d-b6cd-eb1e289a52c4",
+
+               "price": "1.49",
+
+               "songID": "789f2c5a-f004-40d7-b9d7-1e93787a3410"
+
+            }
+
+         ],
+
+         "price": "9.0"
+
+      },
+
+      {
+
+         "artist": "Tryad",
+
+         "title": "Listen",
+
+         "ID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+         "genre": "Electronic",
+
+         "publisher": "Trybe Recordings",
+
+         "year": "2006",
+
+         "songList": [
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Struttin'",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "0b155eec-b654-4b4a-8f0a-c90408966ce5"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Breathe",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "4588521b-15fa-492c-a5f2-939e39aa62da"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Alone",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "7bb7f375-9369-412d-a103-663180251276"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Listen",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "8ef149d4-db45-40bd-868c-0a22390151a6"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "You Are God",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "1e19c48e-48bf-4af6-a540-5230d5457d99"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Lovely",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "a98e7d47-f61b-45b7-b34f-562e7be05f6d"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Beauty",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "63670ee9-3f70-4189-8b43-b5746d0c145e"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Empty",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "e520c848-b7ba-4c29-a3a7-ea7271c8cb68"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Mesmerize",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "009442f2-8f77-4941-874b-a0f94a12ad46"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "All the Same",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "8a1895b5-d19c-4190-beb7-f3b424eb1fbb"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "This",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "cedba798-32af-4e51-9bcc-9ab8f496d902"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Waltz Into the Moonlight",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "c7c4844a-7674-4b9e-932d-6b559b324782"
+
+            },
+
+            {
+
+               "artist": "Tryad",
+
+               "title": "Far and Away",
+
+               "albumID": "5545dfe9-6bfc-4f12-a212-786a39e09325",
+
+               "price": "0.99",
+
+               "songID": "fef35786-072f-4f5f-a652-f1663ab92059"
+
+            }
+
+         ],
+
+         "price": "10.0"
+
+      },
+
+      {
+
+         "artist": "Massive Attack",
+
+         "title": "Mezzanine",
+
+         "ID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+         "genre": "Pop",
+
+         "publisher": "Virgin Records",
+
+         "year": "1988",
+
+         "songList": [
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Angel",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "30a18ddf-3fa1-402f-b6a3-7a619cb9a738"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Risingson",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "92d6d661-e2fc-40ee-9629-d48b5eec00d9"
+
+            },
+
+            {
+
+               "artist": "Liz Fraser/Massive Attack",
+
+               "title": "Teardrop",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "10afb0d6-9039-49bd-91d0-3e70fb88ff66"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Inertia Creeps",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "17b48320-2c7d-4af3-8b3c-50428fe6882a"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Exchange",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "7a61f4b3-eab9-4bf5-961c-fb804b1df380"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Dissolved Girl",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "32e93e9c-3327-4a86-b1dc-9d9c553d9754"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Man Next Door",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "d79e03af-d180-4be1-8944-ffab8a5b00c5"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Black Milk",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "6a62b5ba-c729-4480-aa43-b4cb3e33c2ca"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Mezzanine",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "e512c5a2-ab89-45e4-b24f-9de9bb707f40"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "Group Four",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "c0a4dac1-417d-40ae-87a3-067e5f9bcc32"
+
+            },
+
+            {
+
+               "artist": "Massive Attack",
+
+               "title": "(Exchange)",
+
+               "albumID": "45d28d1e-a8f5-472e-9480-15b4cd1d63c4",
+
+               "price": "0.29",
+
+               "songID": "c352a1cc-e2ca-4f5d-bea3-189f1d4c34d3"
+
+            }
+
+         ],
+
+         "price": "2.0"
+
+      },
+
+      {
+
+         "artist": "Led Zeppelin",
+
+         "title": "Mothership",
+
+         "ID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+         "genre": "Rock",
+
+         "publisher": "Atlantic Records",
+
+         "year": "2007",
+
+         "songList": [
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Good Times Bad Times",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "32f14e27-fae0-4f17-bc89-c5d4820e7252"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Communication Breakdown",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "7bfd2dc8-b63b-468b-ad71-d6ba98cf280d"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Dazed And Confused",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "9fbc8176-74da-4d96-9fbf-2caec57aeddf"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Babe I'm Gonna Leave You",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "c7c36b53-452e-4595-9a87-2669be252096"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Whole Lotta Love",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "5f3b4577-21ff-41fc-ba2c-32bc96cc1599"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Ramble On",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "be8598e5-ea69-4f19-9e23-a25ee19b34d8"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Heartbreaker",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "17a8da55-5e2d-45db-86dc-ece73abfe92d"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Immigrant Song",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "e793bff1-8b71-4635-8433-50de5c92d5ab"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Since I've Been Loving You",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "5fac5ef7-fa91-44d4-aae8-d8b2e333855a"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Rock And Roll",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "14a618de-2f63-414d-8446-1a4dfa0e51d4"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Black Dog",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "1b2a9614-50a3-4cfe-a2be-fdabd472447d"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "When The Levee Breaks",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "da3f4cdc-593e-4c43-b135-390acd0a9d1c"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Stairway To Heaven",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "ada6fb91-ef0c-49d6-be24-9355c96e143c"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "The Song Remains The Same",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "dd2f2227-035e-4503-a631-239b7fbaec32"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Over The Hills And Far Away",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "d2366133-3879-46f2-ad27-09e71c0e762f"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "D'Yer Mak'er",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "8af78d0e-1366-4041-8570-516eeb60c9e7"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "No Quarter",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "a0bca561-33ec-450b-91e0-963428b5a6db"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Trampled Under Foot",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "b7fe69d6-4a63-4a4a-b369-74b52b551f39"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Houses Of The Holy",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "3116fc31-e27d-4580-b941-c2bca9b301fd"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Kashmir",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "bb8ceb2d-5f5e-4269-9805-3719972347c2"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Nobody's Fault But Mine",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "86b51b7c-256b-4dfc-ab2d-5f98cdf3c96b"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "Achilles Last Stand",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "0d90f459-182f-45bb-b155-e785c7683324"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "In The Evening",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "ddbc5acc-5945-405e-a9b0-1a230e7cfa1c"
+
+            },
+
+            {
+
+               "artist": "Led Zeppelin",
+
+               "title": "All My Love",
+
+               "albumID": "cec29534-e052-4517-9fd5-5225b2ea84fb",
+
+               "price": "0.99",
+
+               "songID": "4b2e4317-c2ce-4025-8757-d4e8231fa817"
+
+            }
+
+         ],
+
+         "price": "8.0"
+
+      },
+
+      {
+
+         "artist": "Coldplay",
+
+         "title": "Parachutes",
+
+         "ID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+         "genre": "Alternative & Punk",
+
+         "publisher": "Capitol",
+
+         "year": "2000",
+
+         "songList": [
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Don't Panic",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "550f3bdc-89c6-490b-ad55-357a94f53ea8"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Shiver",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "619710e9-3788-42c3-a979-73f2230f3460"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Spies",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "c1ac1095-11cd-4b45-bb3c-6c1c1b3e2d55"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Sparks",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "64c8e245-c8d6-4189-9512-e964dc5238ab"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Yellow",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "fef7d220-b247-498a-a61e-8b427319efc3"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Trouble",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "175310cc-d73d-4243-98eb-4daa577c48c5"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Parachutes",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "56cbbecc-d0c3-47b0-8d1a-55fda53639b8"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "High Speed",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "fc26663d-0ecc-412d-9a25-4efab0e76292"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "We Never Change",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "eb9b29d6-d93e-4cd8-8d7a-7fe26ff6c05d"
+
+            },
+
+            {
+
+               "artist": "Coldplay",
+
+               "title": "Everything's Not Lost",
+
+               "albumID": "52e0c8ca-557c-4e44-a29f-41057463de1d",
+
+               "price": "0.59",
+
+               "songID": "e117e0ac-c12c-4103-a393-b1b63f622969"
+
+            }
+
+         ],
+
+         "price": "4.0"
+
+      },
+
+      {
+
+         "artist": "Morcheeba",
+
+         "title": "Parts Of The Process",
+
+         "ID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+         "genre": "Electronica/Dance",
+
+         "publisher": "Warner Bros.",
+
+         "year": "2003",
+
+         "songList": [
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "The Sea",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "9ea42297-7e3c-46d6-9bd9-fa909a184dc8"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Tape Loop",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "9ced5ee9-a9dd-4dba-97c5-cf710aced428"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Otherwise",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "907909a2-19a4-494f-b8d5-33ff5a648ff2"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Blindfold",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "05ca0c06-e675-4468-9567-980b689a78e1"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Be Yourself",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "ee167e96-1dbb-42f3-a6cf-1a7764ae6b00"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Part Of The Process",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "b1261a37-35fa-4d36-a569-cafb3cf49dda"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Let Me See",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "8fa55879-d4ec-4a3a-8d3e-f64e92a9ee8b"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Undress Me Now",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "89d1b099-8ded-4ab8-bf64-e9e3460096af"
+
+            },
+
+            {
+
+               "artist": "Morcheeba Feat. Big Daddy Kane",
+
+               "title": "What's Your Name",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "ece3844f-9262-49ba-91f6-0f9dfee8b7ee"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Trigger Hippie",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "5e9976bf-455a-4afd-9e03-92355e6ab25b"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Rome Wasn't Built In A Day",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "8b385c25-cc0f-4ef8-88b2-185c0a554fe1"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Over And Over",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "982d9552-89af-477e-ad33-8cb3bb6eaa62"
+
+            },
+
+            {
+
+               "artist": "Morcheeba Feat. Kurt Wagner",
+
+               "title": "What New York Couples Fight About",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "eecea491-195d-4f11-91cd-6b61927d17e9"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "World Looking In",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "50d2c49b-61a6-4c23-97b4-b05ad246462c"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Moog Island",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "474927d6-0c27-45c3-a41d-834134cb7abd"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Way Beyond",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "1923a9c7-408b-4270-b031-f2627545ab79"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Never An Easy Way",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "18ee6d54-4ed1-4b70-a3dd-cf0456dd621f"
+
+            },
+
+            {
+
+               "artist": "Morcheeba",
+
+               "title": "Can't Stand It",
+
+               "albumID": "02a73f50-4769-41dd-ae38-657c1528b5e3",
+
+               "price": "0.99",
+
+               "songID": "e3a605b7-6e92-469a-87e1-067087edf9a0"
+
+            }
+
+         ],
+
+         "price": "7.0"
+
+      },
+
+      {
+
+         "artist": "Air",
+
+         "title": "Talkie Walkie",
+
+         "ID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+         "genre": "Electronic",
+
+         "publisher": "Virgin Records",
+
+         "year": "2004",
+
+         "songList": [
+
+            {
+
+               "artist": "Air",
+
+               "title": "Venus",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "ef2ba9a5-55f6-4e22-b518-093900ebcca5"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "Cherry Blossom Girl",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "41e55c74-3b0f-4d53-aacd-e2254995b832"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "Run",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "00b5ce3c-b61a-4362-90af-ba22a9c55138"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "Universal Traveller",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "c3de3be1-7d63-49b0-a86a-9020cc887c85"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "Mike Mills",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "11ad39a8-20e7-4f37-a4a2-6ad92008285f"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "surfin on a rock",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "adc63211-86ac-4c2a-bb08-3c052c20188d"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "another day",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "70893f85-45f9-49fa-9636-3c858a198ba7"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "alpha beta gaga",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "9dd707ab-c740-465a-8b2d-f42b8fbba377"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "biological",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "bbc5d3e4-9cf9-44b4-91a2-40480575350f"
+
+            },
+
+            {
+
+               "artist": "Air",
+
+               "title": "alone in kyoto",
+
+               "albumID": "624e8432-a82a-4261-ac24-dbfdd5770a92",
+
+               "price": "1.29",
+
+               "songID": "07b66fa9-d48a-4b43-a1b4-f1b2ac32c98c"
+
+            }
+
+         ],
+
+         "price": "10.0"
+
+      },
+
+      {
+
+         "artist": "Plaid",
+
+         "title": "Tekkonkinkreet",
+
+         "ID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+         "genre": "Electronic",
+
+         "publisher": "Sony Japan",
+
+         "year": "2007",
+
+         "songList": [
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "This City",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "57f29238-f822-40fb-ae98-1292df522993"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Rat's Stop",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "ba75a629-5d52-4c1d-a0be-141411e2f0c7"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "This City Is Hell",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "eb5d2fa0-01b3-4866-9ccf-bf8afd10c0ca"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Brothers Chase",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "a794ceae-df03-4cce-b7ec-1bbee342ed7b"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Butterfly",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "92b41e0e-c65f-4d42-89eb-3f432af06fa5"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Oasis",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "7e2b7d56-bcab-47be-a2b1-b3c68750fc3a"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Beginnings",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "e73eb56d-0451-44d1-af2b-b9b46e0e2a85"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Snakeing",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "dfb2f22f-5425-4afe-b8e6-0291fb676326"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Open Kastle",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "81454c66-2483-4aa2-adee-280ec4586ee2"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Assassouts",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "1ba79ff3-0824-4fd7-99df-c6c8369bc434"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Safety In Solitude",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "7d29386a-4fd9-4d79-b852-1e775f3797c2"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Where",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "94fb4632-4aef-44b8-8f32-3afc4cad08f0"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "White's Dream",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "b0f32e98-5bf7-4f6e-94db-449315b11249"
+
+            },
+
+            {
+
+               "artist": "Plaid",
+
+               "title": "Aru Machi no Gunjo - Asian Kung Fu Generation",
+
+               "albumID": "5cd67f3d-e5a3-40ee-9c64-abbaeb6e9645",
+
+               "price": "0.99",
+
+               "songID": "5aa76af4-6e4b-4436-9569-2da845b97f78"
+
+            }
+
+         ],
+
+         "price": "5.0"
+
+      }
+
+   ]
+
+}
