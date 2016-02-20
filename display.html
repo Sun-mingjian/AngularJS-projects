@@ -1,0 +1,30 @@
+
+<html ng-app = 'app'>
+   
+   <head>
+      <title>AngularJS Directives</title>
+       <script src = "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+      <script src = "events.js"></script>
+        <script src="service.js"></script>
+
+   </head>
+   
+   <body ng-controller = 'dis'>
+        <table>
+            <tr>
+               <th>Name</th>
+               <th>Roll No</th>
+               <th>Percentage</th>
+            </tr>
+         
+            <tr ng-repeat = "student in info">
+               <td>{{ student[1].artist }}</td>
+               
+            </tr>
+         </table>
+      
+       
+     
+      
+   </body>
+</html>
