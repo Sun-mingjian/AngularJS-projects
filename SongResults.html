@@ -1,0 +1,61 @@
+
+<html ng-app = 'app'>
+   
+   <head>
+      <title>AngularJS Directives</title>
+       <script src = "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+      <script src = "events.js"></script>
+        <script src="service.js"></script>
+       <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+   </head>
+       
+   </head>
+   
+   <body ng-controller = 'dis'>
+       <div ng-include src="'NarBar.html'"></div>
+       <div class="container">
+       <h1>List of Songs</h1>
+        <table class="table table-striped">
+            <thead>
+               <th>Song Title</th>
+               <th>Song Artist</th>
+               <th>Album Title</th>
+                <th>Album Genre</th>
+                <th>Album Publisher</th>
+                <th>Year</th>
+                <th>Song Price</th>  
+                <th>Select</th>
+
+            </thead>
+         
+            <tr ng-repeat = "song in songs">
+                <td>{{ song.title }}</td>
+                <td>{{ song.artist }}</td>
+                <td>{{ song.albumTitle }}</td>
+                <td>{{ song.albumGenre }}</td>
+                <td>{{ song.albumPublisher }}</td>
+                <td>{{ song.year }}</td>
+                <td>{{ song.price|currency }}</td>
+                <td><input type = "checkbox" ng-model="chosen" ng-click="toggleSelection(song)" >buy 
+                </td>
+               
+               
+            </tr>
+                 
+
+         </table>
+       </div>
+        
+	   <input type="submit" class="btn btn-danger" ng-click="Back()" value="Back to Search">
+       <input class="btn btn-success" type="submit" ng-click="Cart()" value="Add to Cart" >
+       
+     
+      
+   </body>
+</html>
